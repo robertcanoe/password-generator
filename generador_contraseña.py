@@ -1,3 +1,16 @@
+"""
+Generador de Contraseñas Aleatorias
+-----------------------------------
+Este programa genera contraseñas seguras y personalizables según las preferencias del usuario.
+Permite seleccionar la longitud de la contraseña y el tipo de caracteres que incluir
+(mayúsculas, minúsculas, números y caracteres especiales). Diseñado para reforzar
+habilidades en Python y conceptos básicos de ciberseguridad.
+
+Autor: Roberto Cano Estévez
+
+Fecha: 23/11/2024
+"""
+
 import random
 import string
 
