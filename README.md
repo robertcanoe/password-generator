@@ -10,7 +10,7 @@ Este es un generador de contraseñas aleatorias escrito en Python. Permite crear
 
 ## Código
 
-Este es el código del programa: [password_generator](password_generator.py)
+Este es el código del programa: [password_generator](generador_contraseña.py)
 
 ## Cómo usarlo
 
